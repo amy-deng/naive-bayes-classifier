@@ -7,7 +7,7 @@ This is a simple naive bayesian classifier.
 * Python 2 or 3
 
 ## AUTHOR
-* Songgaojun Deng
+* Amy Deng
 
 ## DATA SOURCE
 * http://archive.ics.uci.edu/ml/datasets/Mushroom
